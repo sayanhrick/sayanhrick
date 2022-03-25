@@ -1,4 +1,4 @@
-### Hi there 👋
+### Page for the Coders to Help out Open Source 👋
 
 <!--
 **sayanhrick/sayanhrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
